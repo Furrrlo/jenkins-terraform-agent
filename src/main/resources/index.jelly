@@ -1,0 +1,6 @@
+<?jelly escape-by-default='true'?>
+<div>
+Jenkins plugin to dynamically provision agents using Terraform.
+
+The infrastructure specified will be created when needed and destroyed when it's no longer used.
+</div>
